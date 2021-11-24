@@ -1,0 +1,24 @@
+{
+    "notes": [
+      {
+        "title": "Plan trip",
+        "text": "Hawaii\n",
+        "id": "0"
+      },
+      {
+        "title": "Start new job",
+        "text": "Tomorrow",
+        "id": "1"
+      },
+      {
+        "title": "Submit classwork",
+        "text": "3 days ago",
+        "id": "2"
+      },
+      {
+        "title": "Complete this course",
+        "text": "And get an A+ !",
+        "id": "3"
+      }
+    ]
+  }
